@@ -9,7 +9,7 @@
 This is a CRUD app, therefore the user has the ability to Create, Read, Update and Delete articles. Comments and images can also be attached for each article. We used SQLite for development and PostgreSQL for production.
 
 You can find a live version of this project here:
-- ![live version](https://fierce-reaches-67219.herokuapp.com/articles)
+- [live version](https://fierce-reaches-67219.herokuapp.com/articles)
 
 ### Built With
 
