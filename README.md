@@ -1,4 +1,4 @@
-# Ebay Webscraper
+# Ruby on Rails Blog App
 
 ![screenshot1](/images/screenshot1.png)
 
